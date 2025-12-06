@@ -36,8 +36,7 @@ lightweight-dev/
 ```
 1. Sampling (sampling_3_rus-smote.ipynb)
    ├─> Install requirements (pipreqs.ipynb)
-   ├─> Split & Scale dataset
-   └─> Apply RUS-SMOTE sampling
+   └─> Apply RUS-SMOTE sampling (Run All)
 
 2. Training Baseline
    ├─> Baseline tanpa sampling (lightgbm_1_baseline_.ipynb)
