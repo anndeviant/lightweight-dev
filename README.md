@@ -63,8 +63,9 @@ lightweight-dev/
    ```python
    %pip install -r requirements.txt
    ```
-2. **Jalankan RUS-SMOTE Sampling** 
+2. **Jalankan RUS-SMOTE Sampling**
    - Run All
+
 ---
 
 ### Step 2: Training Model Baseline
@@ -136,4 +137,4 @@ Semua dependencies yang diperlukan ada di `dataset_sampling/requirements.txt`:
 - optuna-integration[lightgbm]
 - matplotlib
 
-** Lightweight Development Environment** December 2025
+**Lightweight Development Environment** December 2025
